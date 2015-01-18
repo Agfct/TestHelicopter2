@@ -6,5 +6,7 @@ package com.example.anders.helicoptertask;
 public class branchTest {
 
     //Test conflict comment
-    int conflictInt = 4;
+
+    int conflictInt = 8;
+
 }
